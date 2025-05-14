@@ -5,10 +5,10 @@ googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
-googletamanager.com
+googletagmanager.com
 static.doubleclick.net
 stats.g.doubleclick.net
 stats.zotabox.com
 www.google-analytics.com
 www.googleadservices.com
-www.googletamanager.com
+www.googletagmanager.com
