@@ -12,3 +12,4 @@ stats.zotabox.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
+static.ads-twitter.com
