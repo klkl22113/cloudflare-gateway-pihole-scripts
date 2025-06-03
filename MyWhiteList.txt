@@ -14,3 +14,6 @@ www.googleadservices.com
 www.googletagmanager.com
 static.ads-twitter.com
 ads-twitter.com
+analytics.twitter.com
+ads-bidder-api.twitter.com
+ads-api.twitter.com
